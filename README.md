@@ -1,4 +1,4 @@
-# Drawing-Board
+# Drawing Board
 It's Online Drawing board.
 
 ## Links
@@ -8,7 +8,7 @@ https://jialelab.github.io/Drawing-Board/
 ```
 ### Or, Just click here.
 
-(https://jialelab.github.io/Drawing-Board/)
+https://jialelab.github.io/Drawing-Board/
 
 ## Downloads
 
